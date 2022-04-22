@@ -111,7 +111,7 @@ emulator_config.json
 coordinates/*.json
 
 # Ignore any customized color configs
-colors/*.json
+#colors/*.json
 
 #
 submodules/
